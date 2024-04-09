@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadSheddingApp", "LoadSheddingApp\LoadSheddingApp.csproj", "{365582C3-A862-48EB-9FDC-7075ACD7940D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365582C3-A862-48EB-9FDC-7075ACD7940D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365582C3-A862-48EB-9FDC-7075ACD7940D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365582C3-A862-48EB-9FDC-7075ACD7940D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{365582C3-A862-48EB-9FDC-7075ACD7940D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365582C3-A862-48EB-9FDC-7075ACD7940D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365582C3-A862-48EB-9FDC-7075ACD7940D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D6FA47D-C20B-4BF5-8190-D5280C830D71}
+	EndGlobalSection
+EndGlobal
